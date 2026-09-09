@@ -63,14 +63,14 @@ I’m actively working through **Data Structures & Algorithms**, with a focus on
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anshchauhan22/Anshchauhan22/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+  <img src="https://raw.githubusercontent.com/Anshchauhan22/Anshchauhan22/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
 </p>
 
 ## 🎯 2026 Focus
 
 ```text
-Java & DSA          █████████████░░░  Building depth
-Projects            ███████████░░░░░  Shipping consistently
+Java & DSA           █████████████░░░  Building depth
+Projects             ███████████░░░░░  Shipping consistently
 Core CS              █████████░░░░░░░  Strengthening fundamentals
 Internship readiness ████████░░░░░░░░  In progress
 ```
